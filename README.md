@@ -1,2 +1,2 @@
-# Decision_Tree_Implementataion
+# Decision_Tree_Implementation
 Decision Tree Implementation on Iris Dataset
